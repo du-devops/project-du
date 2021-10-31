@@ -1,1 +1,1 @@
-Test6.java
+Test6
